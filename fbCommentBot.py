@@ -36,7 +36,7 @@ class FbBot():
         self.driver.get("https://m.facebook.com/groups/373347030059013/permalink/378354062891643/")
 
         try:
-            with open("quote.txt", errors='ignore') as ins:
+            with open("Input.txt", errors='ignore') as ins:
                 for line in ins:
                     print(line.rstrip('\n'));
                     wish = self.driver.find_element_by_id('composerInput')
