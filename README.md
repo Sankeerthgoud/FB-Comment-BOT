@@ -10,10 +10,11 @@ It requires
 - pyvirtualdisplay pakage - "pip install pyvirtualdisplay"
 - Chrome Driver (http://chromedriver.chromium.org/downloads) Download appropriate driver based on your chrome version. and unizip it to 
 "C:\python3\chromedriver\"
+- Download the files "fbCommentBot.py" and "Input.txt" into a folder
 
 
 # Usage:
-In command prompt enter - python fbCommentBot.py --u=username --p=password
+From the above folder open command prompt(SHIFT+Right click) - "python fbCommentBot.py --u=username --p=password"
  
 *Change the group link at line 36
 
