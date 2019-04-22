@@ -14,7 +14,7 @@ It requires
 
 
 # Usage:
-From the above folder open command prompt(SHIFT+Right click) - "python fbCommentBot.py --u=username --p=password"
+From the above folder open command prompt(SHIFT+Right click) and run the command - "python fbCommentBot.py --u=username --p=password" to start the script. Sit back and watch it do the work.
  
 *Change the group link at line 36
 
