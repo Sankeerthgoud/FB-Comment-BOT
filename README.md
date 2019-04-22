@@ -1,7 +1,7 @@
 # FB-Comment-BOT
 FB Comment BOT
 
-A basic python facebook-bot that can automate your comments in group. All you need to feed the group address and feed data into Input.txt(every line is posted as comment) 
+A basic python facebook-bot that can automate your comments in group. All you need to do is feed the group address and feed data into Input.txt(every line is posted as comment) 
 
 # Requirements
 It requires 
